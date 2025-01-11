@@ -1,0 +1,160 @@
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Decimal(whole) number: 
+The decimal number 65535 converts to 0000 0000 0000 0000 1111 1111 1111 1111  in Binary form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Decimal(whole) number: 
+The decimal number 1000000 converts to 0000 0000 0000 1111 0100 0010 0100 0000  in Binary form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Decimal(whole) number: 
+The decimal number 1234567890 converts to 0100 1001 1001 0110 0000 0010 1101 0010  in Binary form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Decimal(whole) number: 
+The decimal number 65535 converts to 0x0000FFFF  in Hexadecimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Decimal(whole) number: 
+The decimal number 1000000 converts to 0x000F4240  in Hexadecimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Decimal(whole) number: 
+The decimal number 1234567890 converts to 0x499602D2  in Hexadecimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Binary number: 
+The binary number 01100101110011011010111000000101 converts to 1707978245 in decimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Binary number: 
+The binary number 01111111111111110010000111010011 converts to 2147426771 in decimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Binary number: 
+The binary number 00000000000000000000000000000010 converts to 2 in decimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Binary number: 
+The binary number 01100101110011011010111000000101 converts to 0x65CDAE05 in hexadecimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Binary number: 
+The binary number 01111111111111110010000111010011 converts to 0x7FFF21D3 in hexadecimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Binary number: 
+The binary number 00101011101011010111011000111010 converts to 0x20AD763A in hexadecimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Hexadecimal number: You entered 12345678 which converts to 305419896 in decimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Hexadecimal number: You entered 2A3DF8A7 which converts to 708704423 in decimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Hexadecimal number: You entered 00FF00FF which converts to 16711935 in decimal form.
+Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Hexadecimal number: The Hexadecimal number 12345678 converts to 0001 0010 0011 0100 0101 0110 0111 1000  in Binary form.Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Hexadecimal number: The Hexadecimal number 2A3DF8A7 converts to 0010 1010 0011 1101 1111 1000 1010 0111  in Binary form.Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
+Enter a Hexadecimal number: The Hexadecimal number 00FF00FF converts to 0000 0000 1111 1111 0000 0000 1111 1111  in Binary form.Please choose which conversion you want.
+1. Decimal to Binary
+2. Decimal to Hexadecimal
+3. Binary to Decimal
+4. Binary to Hexadecimal
+5. Hexadecimal to Decimal
+6. Hexadecimal to Binary
